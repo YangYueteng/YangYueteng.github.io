@@ -26,8 +26,8 @@ author:
   avatar           : "yyt_png_format.png"#"profile.png"
   name             : "Yueteng Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Researcher on Robotics"
+  location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
   email            : "yyang873@connect.hkust-gz.edu.cn" 
