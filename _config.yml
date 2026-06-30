@@ -23,7 +23,7 @@ repository               : "https://github.com/YangYueteng"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Yueteng Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
