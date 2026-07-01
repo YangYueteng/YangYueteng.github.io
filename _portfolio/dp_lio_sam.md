@@ -1,6 +1,6 @@
 ---
 title: "DP-LIO-SAM: Dual-LiDAR SLAM with Multi-Plane Constraints"
-excerpt: "Video of the Undergraduate thesis project "
+excerpt: "Video of the undergraduate thesis "
 collection: portfolio
 ---
 
