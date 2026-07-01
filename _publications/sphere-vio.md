@@ -2,7 +2,7 @@
 title: "Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems"
 collection: publications
 category: manuscripts
-permalink: https://arxiv.org/abs/2606.29910
+permalink: 'https://arxiv.org/abs/2606.29910'
 excerpt: 'This work is My first PhD publication. I am the sole first author.'
 date: 2026-6-29
 venue: 'arxiv'
