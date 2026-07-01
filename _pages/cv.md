@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Autumn 2023 to Spring 2025: Research Assistant
+* Autumn 2023 to Spring 2025: Research Engineering Assistant
   * Huzhou Institute of Zhejiang University
   * Duties included: Delevoping the robust visual inertial odometry for the FASTLAB, ZJU
   * Supervisor: Prof. Fei Gao
