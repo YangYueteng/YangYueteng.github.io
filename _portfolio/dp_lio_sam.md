@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <a href="https://www.bilibili.com/video/BV1AV4y1C77S/" target="_blank" 
-   style="display:block; position:relative; width:100%; max-width: 720px; margin: 0 auto 1.5rem auto; padding-top:56.25%; overflow:hidden; border-radius:6px; border:1px solid #eaeaea;">
+   style="display:block; position:relative; width:100%; max-width: 100px; margin: 0 auto 1.5rem auto; padding-top:56.25%; overflow:hidden; border-radius:6px; border:1px solid #eaeaea;">
 <iframe src="//player.bilibili.com/player.html?bvid=BV1AV4y1C77S&page=1" 
         scrolling="no" 
         border="0" 
