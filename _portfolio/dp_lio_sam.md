@@ -1,26 +1,15 @@
 ---
 title: "DP-LIO-SAM: Dual-LiDAR SLAM with Multi-Plane Constraints"
-excerpt: "Undergraduate thesis project "
+excerpt: "Video of the Undergraduate thesis project "
 collection: portfolio
 ---
 
-<!-- 点击跳转的预览窗口 -->
-<a href="https://www.bilibili.com/video/BV1AV4y1C77S/" 
-   target="_blank" 
-   style="display: block; width: 100%; height: 320px; overflow: hidden; border-radius: 6px; border: 1px solid #eaeaea; margin-bottom: 1.5rem;">
-  <iframe 
-    src="//player.bilibili.com/player.html?bvid=BV1AV4y1C77S&page=1"
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0"
-    style="width: 100%; height: 100%; pointer-events: none;"
-  >
-  </iframe>
+<a href="https://www.bilibili.com/video/BV1AV4y1C77S/" target="_blank" style="display:block; position:relative; width:100%; padding-top:56.25%; overflow:hidden; border-radius:6px; border:1px solid #eaeaea; margin-bottom:1.5rem;">
+<iframe src="//player.bilibili.com/player.html?bvid=BV1AV4y1C77S&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; top:0; left:0; width:100%; height:100%; pointer-events:none;"></iframe>
 </a>
 
 <p style="font-size: 0.9rem; color: #666; margin-top: -1rem; margin-bottom: 1.5rem;">
-  👆 Click the window to open the full video on Bilibili (new tab)
+👆 Click the window to open the full video on Bilibili (new tab)
 </p>
 
 ### Project Overview
