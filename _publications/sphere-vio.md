@@ -10,11 +10,7 @@ paperurl: 'https://arxiv.org/abs/2606.29910'
 citation: 'Y. Yang, Y. Xie, H. Wei, Q. Wang, B. Zhou, F. Gao, J. Ma, and J. Zhou, &quot;Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems,&quot; <i>arXiv preprint arXiv:2606.29910</i>, 2026.'
 ---
 
-<p style="margin-bottom: 1.5rem;">
-<a href="https://www.bilibili.com/video/BV1QfMF63EVA/" target="_blank" style="display: inline-block; padding: 0.4rem 1rem; background: #00a1d6; color: white; border-radius: 4px; text-decoration: none; font-size: 0.9rem;">
-🎬 Watch Demo Video (Bilibili)
-</a>
-</p>
+**[🎬 Watch Demo Video on Bilibili](https://www.bilibili.com/video/BV1QfMF63EVA/)**
 
 Multi-camera visual-inertial odometry (VIO) improves the robustness of visual localization by expanding the field of view. However, most existing methods are tailored for fixed camera configurations, and cannot easily support heterogeneous multi-camera systems while striking a favorable balance between tracking performance, depth estimation stability, and real-time efficiency.
 
