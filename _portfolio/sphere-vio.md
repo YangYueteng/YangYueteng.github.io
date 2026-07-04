@@ -1,13 +1,13 @@
 ---
 title: "Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems"
-excerpt: "Video of the Work Sphere-VIO "
+excerpt: "Video of the Work Sphere-VIO"
 collection: portfolio
 ---
 
 <div style="max-width: 720px !important; margin: 0 auto 1.5rem auto; width: 100% !important;">
 <a href="https://www.bilibili.com/video/BV1QfMF63EVA/" target="_blank" 
    style="display:block; position:relative; width:100%; padding-top:56.25%; overflow:hidden; border-radius:6px; border:1px solid #eaeaea;">
-<iframe src="//player.bilibili.com/player.html?bvid=BV1AV4y1C77S&page=1" 
+<iframe src="//player.bilibili.com/player.html?bvid=BV1QfMF63EVA&page=1" 
         scrolling="no" 
         border="0" 
         frameborder="no" 
@@ -23,4 +23,6 @@ collection: portfolio
 </p>
 
 ### Project Overview
-This work is my first PhD work.
+This work is my first PhD publication, completed independently as the sole first author.
+
+**Paper**: [arXiv:2606.29910](https://arxiv.org/abs/2606.29910)
