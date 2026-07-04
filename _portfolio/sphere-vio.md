@@ -21,3 +21,6 @@ collection: portfolio
 <p style="font-size: 0.9rem; color: #666; text-align:center; margin-top: -1rem; margin-bottom: 1.5rem;">
 👆 Click the window to open the full video on Bilibili (new tab)
 </p>
+
+### Project Overview
+This work is my first PhD work.
