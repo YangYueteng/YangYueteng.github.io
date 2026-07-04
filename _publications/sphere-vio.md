@@ -12,7 +12,6 @@ citation: 'Y. Yang, Y. Xie, H. Wei, Q. Wang, B. Zhou, F. Gao, J. Ma, and J. Zhou
 
 **[🎬 Watch Demo Video on Bilibili](https://www.bilibili.com/video/BV1QfMF63EVA/)**
 
-### Project Overview
 Multi-camera visual-inertial odometry (VIO) improves the robustness of visual localization by expanding the field of view. However, most existing methods are tailored for fixed camera configurations, and cannot easily support heterogeneous multi-camera systems while striking a favorable balance between tracking performance, depth estimation stability, and real-time efficiency.
 
 To tackle these challenges, we propose Sphere-VIO, a lightweight filter-based framework centered on a unified spherical representation. It builds a unified panoramic mapping mechanism for heterogeneous multi-camera systems, paired with depth-guided cross-camera feature tracking and a low-complexity filter backend. While drastically reducing computational overhead, Sphere-VIO achieves an excellent trade-off between localization accuracy, environmental robustness, and cross-camera generality, and runs stably in real time on resource-constrained edge devices.
