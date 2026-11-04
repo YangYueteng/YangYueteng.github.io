@@ -1,13 +1,14 @@
 ---
-title: "Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems"
+title: "Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Wide-FoV Multi-Camera Systems"
 collection: publications
 category: manuscripts
 permalink:  /publication/sphere-vio
-excerpt: 'This work is My first PhD publication. I am the sole first author.'
-date: 2026-6-29
-venue: 'arxiv'
-paperurl: 'https://arxiv.org/abs/2606.29910'
-citation: 'Y. Yang, Y. Xie, H. Wei, Q. Wang, B. Zhou, F. Gao, J. Ma, and J. Zhou, &quot;Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems,&quot; <i>arXiv preprint arXiv:2606.29910</i>, 2026.'
+excerpt: 'This work is my first PhD publication. I am the sole first author.'
+date: 2026-10-29
+venue: 'IEEE Robotics and Automation Letters (RAL)'
+paperurl: 'https://doi.org/10.1109/LRA.2026.3748679'
+citation: 'Y. Yang, Y. Xie, H. Wei, Q. Wang, B. Zhou, F. Gao, J. Ma, and J. Zhou, &quot;Sphere-VIO: Fast and Robust Visual-Inertial Odometry Via Unified Spherical Representation for Wide-FoV Multi-Camera Systems,&quot; <i>IEEE Robotics and Automation Letters</i>, doi: 10.1109/LRA.2026.3748679.'
+keywords: "Cameras;Visualization;Modeling;Simultaneous localization and mapping;Measurement;Optimization;Robots;Filtering;Geometry;Timing;SLAM;Visual-Inertial SLAM;Localization"
 ---
 
 **[🎬 Watch Demo Video on Bilibili](https://www.bilibili.com/video/BV1QfMF63EVA/)**
