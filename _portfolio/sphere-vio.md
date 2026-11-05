@@ -25,4 +25,5 @@ collection: portfolio
 ### Project Overview
 This work is my first PhD publication, completed independently as the sole first author.
 
-**Paper**: [arXiv:2606.29910](https://arxiv.org/abs/2606.29910)
+**Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/11763466)
+
