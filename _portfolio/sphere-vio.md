@@ -1,6 +1,6 @@
 ---
-title: "Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Heterogeneous Multi-Camera Systems"
-excerpt: "Video of the Sphere-VIO, my first PhD publication "
+title: "Sphere-VIO: Fast and Robust Visual-Inertial Odometry via Unified Spherical Representation for Wide-FoV Multi-Camera Systems"
+excerpt: "Video of the Sphere-VIO (IEEE RAL 2026), my first PhD publication "
 collection: portfolio
 ---
 
