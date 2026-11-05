@@ -16,9 +16,13 @@ Education
 
 Work experience
 ======
-* Autumn 2023 to Spring 2025: Research Engineering Assistant
-  * Huzhou Institute of Zhejiang University
-  * Duties included: Developing the robust visual inertial odometry for the FASTLAB, Zhejiang University
+* September 2026 – Present: Localization Algorithm Intern
+  * Company: Differential Robotics
+  * Responsibilities: Develop lightweight RGB-D VIO systems
+  * Supervisor: Prof. Fei Gao
+* Autumn 2023 – Spring 2025: Research Engineering Assistant
+  * Institute: Huzhou Institute, Zhejiang University
+  * Responsibilities: Develop robust visual-inertial odometry (VIO) for FASTLAB, Zhejiang University
   * Supervisor: Prof. Fei Gao
 
 Publications
