@@ -1,8 +1,5 @@
 ---
 layout: archive
-title: false
-header:
-  title: false
 permalink: /cv/
 author_profile: true
 redirect_from:
