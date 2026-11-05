@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: false
 header:
   title: false
 permalink: /cv/
