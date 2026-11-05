@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+_Education_
 ======
 * Ph.D in the Robotics and Autonomous Systems (ROAS) Thrust, The Hong Kong University of Science and Technology (Guangzhou), 2029 (expected)
 * B.S. in the School of Automation Science and Engineering, South China University of Technology, 2023
 
-Work experience
+_Work experience_
 ======
 * September 2026 – Present: Localization Algorithm Intern
   * Company: Differential Robotics
@@ -25,7 +25,7 @@ Work experience
   * Responsibilities: Develop robust visual-inertial odometry (VIO) for FASTLAB, Zhejiang University
   * Supervisor: Prof. Fei Gao
 
-Publications
+_Publications_
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
